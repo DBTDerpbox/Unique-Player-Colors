@@ -18,6 +18,8 @@ Unique Player Colors is a datapack for Minecraft: Java Edition that gives unique
 
 ### Notices
 
+To change config options, run the command `/function dbx.uniqcolor:config` in-game
+
 Without the resource pack, the `Player Icons` feature will not be functional
 
 Unique Player Colors is currently designed for [Minecraft Java Edition 1.19.2](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-19.2)
