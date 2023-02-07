@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Unique Player Colors V1.0",
+        "description": ["",{"text":"Colors will be automatically applied on join","color":"green"},{"text":"\n"},{"text":"\n"},{"text":"The datapack can be configured with ","color":"green"},{"text":"/function dbx.uniqcolor:config","color":"gold"}],
+        "icon": {
+            "item": "white_candle"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:dbtderpbox",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
